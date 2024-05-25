@@ -1,0 +1,17 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__
+local_settings.py
+media
+
+# Virtualenv
+venv/
+*.pyc
+
+# IDE - VSCode
+.vscode/
+
+# macOS
+.DS_Store
